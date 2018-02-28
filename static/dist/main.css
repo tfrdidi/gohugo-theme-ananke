@@ -5909,3 +5909,12 @@ pre {
 figure {
     margin: 0;
 }
+
+figcaption {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+figcaption p {
+    margin-top: 8px;
+}
